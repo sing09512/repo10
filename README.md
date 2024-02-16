@@ -5,13 +5,13 @@
 `git diff`
 `git log`
 
-`git add`
+`git add 文件`
 
 `git commit -m`
 `git log`
 
 `upload data`
-`git push`
+`git push origin main`
 
 `設定名字,電郵`
 `git config user.name`
