@@ -6,6 +6,11 @@
 
 `git add`
 
-`git commit`
+`git commit -m`
+`git log`
 
+`upload data`
 `git push`
+
+`git config user.name`
+`git config user.email`
