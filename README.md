@@ -6,7 +6,7 @@
 `git log`
 
 `git add 文件`
-
+git commit -m "Remove .env from version control" //删除远程仓库中的.env
 `git commit -m`<br>
 `git log`
 
